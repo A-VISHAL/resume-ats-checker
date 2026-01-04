@@ -25,7 +25,7 @@ Analyze the resume and give:
 - Tone & clarity feedback
 
 Resume:
-${resumeText.substring(0, 2000)}
+${resumeText.substring(0, 250)}
       `,
       stream: false,
     }),
